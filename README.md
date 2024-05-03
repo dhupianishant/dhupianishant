@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nishant Dhupia!</h1>
+<img src="Nishant Dhupia.jpg">
+<h1 align="center">Hi 👋, I'm Nishant!</h1>
 <h3 align="left">Fresh coder with a passion for C/C++, Python, HTML, CSS, Bootstrap, and Tailwind CSS, ready to make waves in the coding world!</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dhupianishant&label=Profile%20Views&color=0e75b6&style=flat-square" alt="dhupianishant" /> </p>
