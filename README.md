@@ -10,7 +10,7 @@
 
 - 📫 Reach me at **nishantdhupia18@gmail.com**
 
-- 📄 [Resume](https://tinyurl.com/nishantDhupiaResume)
+- 📄 [Resume](https://drive.google.com/file/d/1he5HijV1HnDtJiiZu4RYNjjV_5pAT7HZ/view?usp=drive_link)
 
 <!-- CONNECT WITH ME -->
 <h3 align="left">Connect with me:</h3>
